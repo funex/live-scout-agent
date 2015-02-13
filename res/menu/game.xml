@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/game_start_first_half"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/start_first_half"
+        android:visible="true"/>
+    <item
+        android:id="@+id/game_end_first_half"
+        android:orderInCategory="101"
+        android:showAsAction="ifRoom"
+        android:title="@string/end_first_half"
+        android:visible="false"/>
+    <item
+        android:id="@+id/game_start_second_half"
+        android:orderInCategory="102"
+        android:showAsAction="ifRoom"
+        android:title="@string/start_second_half"
+        android:visible="false"/>
+    <item
+        android:id="@+id/game_end_second_half"
+        android:orderInCategory="103"
+        android:showAsAction="ifRoom"
+        android:title="@string/end_second_half"
+        android:visible="false"/>
+    <item
+        android:id="@+id/game_end"
+        android:orderInCategory="104"
+        android:showAsAction="ifRoom"
+        android:title="@string/go_back"
+        android:visible="false"/>
+
+</menu>
