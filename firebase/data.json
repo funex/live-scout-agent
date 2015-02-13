@@ -1,0 +1,205 @@
+{
+  "events" : {
+    "game0001" : {
+      "-Jgfso1aDclPXWFxeVrZ" : {
+        "action" : "STARTFIRSTHALF",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-JgfsrNyEZXfgtezTdT7" : {
+        "action" : "FREEKICK",
+        "key" : "events",
+        "team" : "AWAY"
+      },
+      "-JgfsulETJU63g5fqKCj" : {
+        "action" : "GOAL",
+        "key" : "events",
+        "team" : "AWAY"
+      },
+      "-Jgfsx2S1qVS0mDzBpnX" : {
+        "action" : "OFFSIDE",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-JgfsxGCOauLd20J_IjV" : {
+        "action" : "REDCARD",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-Jgfsy0MVVOHX8QG2Yj_" : {
+        "action" : "YELLOWCARD",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-JgfsyWCZCRZeickgXNE" : {
+        "action" : "ENDFIRSTHALF",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-JgfszvIF0k4bt74PrUc" : {
+        "action" : "STARTSECONDHALF",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-Jgft-8_SoXUmty1LUSf" : {
+        "action" : "ENDSECONDHALF",
+        "key" : "events",
+        "team" : "HOME"
+      }
+    },
+    "game0002" : {
+      "-Jh4qVNta14bR4YvIrY5" : {
+        "action" : "STARTFIRSTHALF",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-Jh4qYq8LSY5b2f8vXQB" : {
+        "action" : "GOAL",
+        "key" : "events",
+        "team" : "AWAY"
+      },
+      "-Jh4q_gGhggZDqZP_6l6" : {
+        "action" : "REDCARD",
+        "key" : "events",
+        "team" : "AWAY"
+      },
+      "-Jh4qat8iiylBxLce_AZ" : {
+        "action" : "YELLOWCARD",
+        "key" : "events",
+        "team" : "AWAY"
+      },
+      "-Jh4qc38R7X6KKQSYhfG" : {
+        "action" : "GOAL",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-Jh4qd2tkOzvVWZPGN0a" : {
+        "action" : "GOAL",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-Jh4qjqt5SxJdXEkaw1p" : {
+        "action" : "ENDFIRSTHALF",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-Jh4qkKWCiX7dK9hyWIe" : {
+        "action" : "STARTSECONDHALF",
+        "key" : "events",
+        "team" : "HOME"
+      },
+      "-Jh4qkTGmcccqTsQM5yW" : {
+        "action" : "ENDSECONDHALF",
+        "key" : "events",
+        "team" : "HOME"
+      }
+    }
+  },
+  "games" : {
+    "game0001" : {
+      "endDate" : "27/01/2015 15:55:36 pm",
+      "firstHalfFinished" : true,
+      "gameRunning" : false,
+      "scheduledDate" : "17/01/2014 13:30:00 PM",
+      "secondHalfFinished" : true,
+      "startDate" : "27/01/2015 15:54:47 pm",
+      "teams" : {
+        "AWAY" : {
+          "goals" : 1,
+          "name" : "Chelsea",
+          "redCards" : 0,
+          "team" : "AWAY",
+          "yellowCards" : 0
+        },
+        "HOME" : {
+          "goals" : 0,
+          "name" : "R Madrid",
+          "redCards" : 1,
+          "team" : "HOME",
+          "yellowCards" : 1
+        }
+      }
+    },
+    "game0002" : {
+      "endDate" : "01/02/2015 16:55:55 pm",
+      "firstHalfFinished" : true,
+      "gameRunning" : false,
+      "scheduledDate" : "17/01/2014 12:30:00 PM",
+      "secondHalfFinished" : true,
+      "startDate" : "01/02/2015 16:54:50 pm",
+      "teams" : {
+        "AWAY" : {
+          "goals" : 1,
+          "name" : "Shalke 04",
+          "redCards" : 1,
+          "team" : "AWAY",
+          "yellowCards" : 1
+        },
+        "HOME" : {
+          "goals" : 2,
+          "name" : "B. Dortmund",
+          "redCards" : 0,
+          "team" : "HOME",
+          "yellowCards" : 0
+        }
+      }
+    },
+    "game0003" : {
+      "scheduledDate" : "17/01/2014 14:30:00 PM",
+      "teams" : {
+        "AWAY" : {
+          "goals" : 0,
+          "name" : "Benfica",
+          "redCards" : 0,
+          "team" : "AWAY",
+          "yellowCards" : 0
+        },
+        "HOME" : {
+          "goals" : 0,
+          "name" : "PSG",
+          "redCards" : 0,
+          "team" : "HOME",
+          "yellowCards" : 0
+        }
+      }
+    },
+    "game0004" : {
+      "scheduledDate" : "21/01/2014 14:30:00 PM",
+      "teams" : {
+        "AWAY" : {
+          "goals" : 0,
+          "name" : "Lyon",
+          "redCards" : 0,
+          "team" : "AWAY",
+          "yellowCards" : 0
+        },
+        "HOME" : {
+          "goals" : 0,
+          "name" : "Valencia",
+          "redCards" : 0,
+          "team" : "HOME",
+          "yellowCards" : 0
+        }
+      }
+    },
+    "game0005" : {
+      "scheduledDate" : "22/01/2014 14:30:00 PM",
+      "teams" : {
+        "AWAY" : {
+          "goals" : 0,
+          "name" : "AC Milan",
+          "redCards" : 0,
+          "team" : "AWAY",
+          "yellowCards" : 0
+        },
+        "HOME" : {
+          "goals" : 0,
+          "name" : "Barcelona",
+          "redCards" : 0,
+          "team" : "HOME",
+          "yellowCards" : 0
+        }
+      }
+    }
+  }
+}
