@@ -1,5 +1,5 @@
 # Introduction
-Proof of concept for an Android application to cover live football events and send live feed to connect clients
+Proof of concept for an Android application to cover live football events and send live feed to connected web clients
 
 
 # Instructions
